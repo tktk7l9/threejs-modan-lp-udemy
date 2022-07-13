@@ -1,0 +1,17 @@
+{
+  "name": "threejs-modan-lp-udemy",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "lil-gui": "^0.17.0",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "three": "^0.142.0"
+  }
+}
